@@ -213,27 +213,31 @@ will detect that the front wheels have touched the ground. The front colour sens
 <li>• The bot also has an ability to lift itself above the crop for traversing in the field.<br></li>
 
 ## Cost Structure
-###  Component     "&emsp"        Number used   "&emsp" Cost INR
+###  Component      
+&nbsp;&nbsp;&nbsp;
+### Number used 
+&nbsp;&nbsp;&nbsp;
+### Cost INR
 <ul>
-  <li>Planetary Geared Motor   "&emsp"         4         "&emsp"   19,996<br></li>
-  <li>Arduino Mega 2560              "&emsp"   1   "&emsp"            800<br></li>
-  <li>Node MCU Esp8266               "&emsp"   1          "&emsp"     260<br></li>
-  <li>Motor Driver                  "&emsp"    6    "&emsp"        15,000<br></li>
-  <li>Battery                        "&emsp"   3            "&emsp"  4997<br></li>
-  <li>Heavy Duty Wheels               "&emsp"  4       "&emsp"        900<br></li>
-  <li>Caster Wheels                  "&emsp"  4           "&emsp"    200<br></li>
-  <li>Johnson motor                  "&emsp"   5      "&emsp"        1996<br></li>
-  <li>Rotary Encoder                 "&emsp"   3        "&emsp"      4497<br></li>
-  <li>Ultrasonic Sensor              "&emsp"   5        "&emsp"       900<br></li>
-  <li>Mpu9250                         "&emsp"  1  "&emsp"             190<br></li>
-  <li>Dht11 temperature           "&emsp"      1             "&emsp"  108<br></li>
-  <li>Soil Moisture Sensor          "&emsp"    1       "&emsp"         75<br></li>
-  <li>Bump Sensor                    "&emsp"   4  "&emsp"             400<br></li>
-  <li>Lead screw                     "&emsp"   3           "&emsp"   2397<br></li>
-  <li>Material for Body              "&emsp"  ----   "&emsp"         4000<br></li>
-  <li>Manufacturing                  "&emsp"  ----      "&emsp"      3500<br></li>
+  <li>Planetary Geared Motor           4          19,996<br></li>
+  <li>Arduino Mega 2560               1             800<br></li>
+  <li>Node MCU Esp8266                  1              260<br></li>
+  <li>Motor Driver                     6            15,000<br></li>
+  <li>Battery                          3             4997<br></li>
+  <li>Heavy Duty Wheels                4               900<br></li>
+  <li>Caster Wheels                   4               200<br></li>
+  <li>Johnson motor                5              1996<br></li>
+  <li>Rotary Encoder                  3             4497<br></li>
+  <li>Ultrasonic Sensor                5              900<br></li>
+  <li>Mpu9250                          1               190<br></li>
+  <li>Dht11 temperature                1             108<br></li>
+  <li>Soil Moisture Sensor              1               75<br></li>
+  <li>Bump Sensor                      4              400<br></li>
+  <li>Lead screw                       3             2397<br></li>
+  <li>Material for Body                ----           4000<br></li>
+  <li>Manufacturing                   ----            3500<br></li>
 </ul>
-**Total Cost-             "&emsp" "&emsp"                      60,216**<br>
+**Total Cost-                                   60,216**<br>
 
 
 ## Future Improvement
