@@ -213,11 +213,11 @@ will detect that the front wheels have touched the ground. The front colour sens
 <li>• The bot also has an ability to lift itself above the crop for traversing in the field.<br></li>
 
 ## Cost Structure
-###  Component      
+<p> ###  Component      
 &nbsp;&nbsp;&nbsp;
-### Number used 
+ Number used 
 &nbsp;&nbsp;&nbsp;
-### Cost INR
+ Cost INR</p>
 <ul>
   <li>Planetary Geared Motor           4          19,996<br></li>
   <li>Arduino Mega 2560               1             800<br></li>
