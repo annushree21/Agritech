@@ -213,32 +213,34 @@ will detect that the front wheels have touched the ground. The front colour sens
 <li>• The bot also has an ability to lift itself above the crop for traversing in the field.<br></li>
 
 ## Cost Structure
-<p> ###  Component      
+<p>  Component      
 &nbsp;&nbsp;&nbsp;
  Number used 
 &nbsp;&nbsp;&nbsp;
  Cost INR</p>
 <ul>
-  <li>Planetary Geared Motor           4          19,996<br></li>
-  <li>Arduino Mega 2560               1             800<br></li>
-  <li>Node MCU Esp8266                  1              260<br></li>
-  <li>Motor Driver                     6            15,000<br></li>
-  <li>Battery                          3             4997<br></li>
-  <li>Heavy Duty Wheels                4               900<br></li>
-  <li>Caster Wheels                   4               200<br></li>
-  <li>Johnson motor                5              1996<br></li>
-  <li>Rotary Encoder                  3             4497<br></li>
-  <li>Ultrasonic Sensor                5              900<br></li>
-  <li>Mpu9250                          1               190<br></li>
-  <li>Dht11 temperature                1             108<br></li>
-  <li>Soil Moisture Sensor              1               75<br></li>
-  <li>Bump Sensor                      4              400<br></li>
-  <li>Lead screw                       3             2397<br></li>
-  <li>Material for Body                ----           4000<br></li>
-  <li>Manufacturing                   ----            3500<br></li>
+  <li>Planetary Geared Motor   &nbsp;&nbsp;&nbsp;&nbsp;        4       &nbsp;&nbsp;&nbsp;&nbsp;   19,996<br></li>
+  <li>Arduino Mega 2560     &nbsp;&nbsp;&nbsp;&nbsp;          1       &nbsp;&nbsp;&nbsp;&nbsp;      800<br></li>
+  <li>Node MCU Esp8266      &nbsp;&nbsp;&nbsp;&nbsp;            1    &nbsp;&nbsp;&nbsp;&nbsp;          260<br></li>
+  <li>Motor Driver        &nbsp;&nbsp;&nbsp;&nbsp;             6         &nbsp;&nbsp;&nbsp;&nbsp;   15,000<br></li>
+  <li>Battery             &nbsp;&nbsp;&nbsp;&nbsp;             3           &nbsp;&nbsp;&nbsp;&nbsp;  4997<br></li>
+  <li>Heavy Duty Wheels   &nbsp;&nbsp;&nbsp;&nbsp;             4          &nbsp;&nbsp;&nbsp;&nbsp;     900<br></li>
+  <li>Caster Wheels        &nbsp;&nbsp;&nbsp;&nbsp;           4           &nbsp;&nbsp;&nbsp;&nbsp;    200<br></li>
+  <li>Johnson motor             &nbsp;&nbsp;&nbsp;&nbsp;   5     &nbsp;&nbsp;&nbsp;&nbsp;         1996<br></li>
+  <li>Rotary Encoder     &nbsp;&nbsp;&nbsp;&nbsp;             3    &nbsp;&nbsp;&nbsp;&nbsp;         4497<br></li>
+  <li>Ultrasonic Sensor  &nbsp;&nbsp;&nbsp;&nbsp;              5     &nbsp;&nbsp;&nbsp;&nbsp;         900<br></li>
+  <li>Mpu9250            &nbsp;&nbsp;&nbsp;&nbsp;              1     &nbsp;&nbsp;&nbsp;&nbsp;          190<br></li>
+  <li>Dht11 temperature  &nbsp;&nbsp;&nbsp;&nbsp;              1       &nbsp;&nbsp;&nbsp;&nbsp;      108<br></li>
+  <li>Soil Moisture Sensor  &nbsp;&nbsp;&nbsp;&nbsp;            1      &nbsp;&nbsp;&nbsp;&nbsp;         75<br></li>
+  <li>Bump Sensor           &nbsp;&nbsp;&nbsp;&nbsp;           4      &nbsp;&nbsp;&nbsp;&nbsp;        400<br></li>
+  <li>Lead screw             &nbsp;&nbsp;&nbsp;&nbsp;          3        &nbsp;&nbsp;&nbsp;&nbsp;     2397<br></li>
+  <li>Material for Body     &nbsp;&nbsp;&nbsp;&nbsp;           ----   &nbsp;&nbsp;&nbsp;&nbsp;        4000<br></li>
+  <li>Manufacturing             &nbsp;&nbsp;&nbsp;&nbsp;      ----  &nbsp;&nbsp;&nbsp;&nbsp;          3500<br></li>
 </ul>
-**Total Cost-                                   60,216**<br>
-
+<p> **Total Cost- **        
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+**60,216**<br>
+</p>
 
 ## Future Improvement
 ### • Weed Detection:
