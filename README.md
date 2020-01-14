@@ -1,7 +1,10 @@
 # Agritech
 Terrace farming bot
 # Images of the project
-![](https://raw.githubusercontent.com/annushree21/Agritech/master/Images/Mechanical_design_CAD.jpeg = 100x20)
+![](https://raw.githubusercontent.com/annushree21/Agritech/master/Images/Mechanical_design_CAD.jpeg)
+![](https://github.com/annushree21/Agritech/blob/master/Images/Harvester_design.jpeg)
+![](https://github.com/annushree21/Agritech/blob/master/Images/Harvester_design.jpeg)
+![](https://github.com/annushree21/Agritech/blob/master/Images/Harvester_design.jpeg)
 
 # Abstract
 MaRS IIT Roorkee has developed an autonomous bot to perform agricultural tasks for terrace farming. This
