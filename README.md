@@ -2,8 +2,8 @@
 Terrace farming bot
 # Images of the project
 ![](https://raw.githubusercontent.com/annushree21/Agritech/master/Images/Mechanical_design_CAD.jpeg)
-![](https://github.com/annushree21/Agritech/blob/master/Images/Harvester_design.jpeg)
-![](https://github.com/annushree21/Agritech/blob/master/Images/Harvester_design.jpeg)
+![](https://github.com/annushree21/Agritech/blob/master/Images/Upstair_movement.jpeg)
+![](https://github.com/annushree21/Agritech/blob/master/Images/Seeding_mechanism.jpeg)
 ![](https://github.com/annushree21/Agritech/blob/master/Images/Harvester_design.jpeg)
 
 # Abstract
